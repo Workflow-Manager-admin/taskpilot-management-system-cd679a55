@@ -1,0 +1,4 @@
+{
+    "command": "npm start -- --port <port> --host <host>",
+    "working_directory": "/home/kavia/workspace/code-generation/taskpilot-management-system-cd679a55/taskpilot_frontend"
+}
